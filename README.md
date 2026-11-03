@@ -16,7 +16,7 @@ An agentic RAG assistant that retrieves from your files, searches the web when i
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
-[🚀 Live Demo](https://your-app-name.onrender.com) &nbsp;•&nbsp; [🐞 Report Bug](https://github.com/Pratik5767/QuestGPT/issues) &nbsp;•&nbsp; [💡 Request Feature](https://github.com/Pratik5767/QuestGPT/issues)
+[🚀 Live Demo](https://questgpt.onrender.com) &nbsp;•&nbsp; [🐞 Report Bug](https://github.com/Pratik5767/QuestGPT/issues) &nbsp;•&nbsp; [💡 Request Feature](https://github.com/Pratik5767/QuestGPT/issues)
 
 </div>
 
