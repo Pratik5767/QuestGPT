@@ -1,5 +1,9 @@
 # Environments
 .venv
+chroma_db/
+uploads/
+data/
+.env
 env/
 venv/
 ENV/

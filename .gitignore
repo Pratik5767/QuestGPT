@@ -151,6 +151,9 @@ activemq-data/
 
 # Environments
 .env
+chroma_db/
+uploads/
+data/
 .envrc
 .venv
 env/
